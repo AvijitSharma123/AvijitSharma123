@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Avijit Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://AvijitSharma123.github.io](https://AvijitSharma123.github.io)
+- 👨‍💻 Portfolio:All of my projects are available at [https://AvijitSharma123.github.io](https://AvijitSharma123.github.io)
 
 - 📫 How to reach me **avijitsharma.6290@gmail.com**
 
