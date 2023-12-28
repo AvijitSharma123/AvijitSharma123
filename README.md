@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 📫 How to reach me **avijitsharma.6290@gmail.com**
+- 📫 How to reach me :
 - Email : avijitsharma.6290@gmail.com
 - 👨‍💻 Portfolio: [https://AvijitSharma123.github.io](https://AvijitSharma123.github.io)
 
