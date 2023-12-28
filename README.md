@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Avijit Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 Portfolio:All of my projects are available at [https://AvijitSharma123.github.io](https://AvijitSharma123.github.io)
 
 - 📫 How to reach me **avijitsharma.6290@gmail.com**
+- 👨‍💻 Portfolio: [https://AvijitSharma123.github.io](https://AvijitSharma123.github.io)
 
 - 📄 Know about my experiences [https://test-resume.masaischool.com/dashboard/profile/?resumeId=658554d120611c3404624a3a&profileId=self&selectedTemplate=TwoColumnMinimal](https://test-resume.masaischool.com/dashboard/profile/?resumeId=658554d120611c3404624a3a&profileId=self&selectedTemplate=TwoColumnMinimal)
 
