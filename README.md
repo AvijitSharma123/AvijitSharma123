@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avijit Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 - 👋 Hi, I’m Avijit Kumar Sharma.
 - I'm from Kolkata.
 - 👀 I’m interested in Full Stack Development.
@@ -12,8 +13,7 @@ AvijitSharma123/AvijitSharma123 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Avijit Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 
 - 📫 How to reach me :
