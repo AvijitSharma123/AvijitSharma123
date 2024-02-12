@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avijit Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👋 Hi, I’m Avijit Kumar Sharma.
 - I'm from Kolkata.
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning Reactjs...
