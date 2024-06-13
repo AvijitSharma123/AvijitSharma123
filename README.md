@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - Email : avijitsharma.6290@gmail.com
 - 👨‍💻 Portfolio: [https://AvijitSharma123.github.io](https://AvijitSharma123.github.io)
 
-- 📄 Know about my experiences [https://test-resume.masaischool.com/dashboard/profile/?resumeId=658554d120611c3404624a3a&profileId=self&selectedTemplate=TwoColumnMinimal](https://test-resume.masaischool.com/dashboard/profile/?resumeId=658554d120611c3404624a3a&profileId=self&selectedTemplate=TwoColumnMinimal)
+- 📄 Know about my experiences [https://test-resume.masaischool.com/dashboard/profile/?resumeId=658554d120611c3404624a3a&profileId=self&selectedTemplate=TwoColumnMinimal](https://drive.google.com/file/d/169qmhjjEzusiPTWQyow-_NOHfYDD_eza/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
