@@ -5,8 +5,10 @@
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning Reactjs...
 - 💞️ I’m looking to collaborate on a project of building a e-commerce website...
-- 📫 How to reach me : Email-id: avijitsharma.6290@gamil.com
 
+ <!---
+- 📫 How to reach me : Email-id: avijitsharma.6290@gamil.com
+--->
 <!---
 AvijitSharma123/AvijitSharma123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
