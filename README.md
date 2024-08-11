@@ -3,8 +3,8 @@
 
 - I'm from Kolkata.
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Reactjs...
-- 💞️ I’m looking to collaborate on a project of building a e-commerce website...
+- 🌱 Tech Stacks I Know :- HTML, CSS, JavaScript, Java, MongoDB , Express.js, Node.js, Tailwind CSS, ChakraUI
+- 💞️ I’m looking for a job for FrontEnd/BackEnd/FullStack Web developer role .
 
  <!---
 - 📫 How to reach me : Email-id: avijitsharma.6290@gamil.com
