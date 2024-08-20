@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 - Email : avijitsharma.6290@gmail.com
 - 👨‍💻 Portfolio: [https://AvijitSharma123.github.io](https://AvijitSharma123.github.io)
 
-- 📄 <a href="https://drive.google.com/file/d/169qmhjjEzusiPTWQyow-_NOHfYDD_eza/view">Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/1jHuUZYHW4-geR8lryJnoRT83XIbqT_ZZ/view">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
