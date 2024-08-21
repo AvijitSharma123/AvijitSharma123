@@ -15,8 +15,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-
 - 📫 How to reach me :
 - Email : avijitsharma.6290@gmail.com
 - 👨‍💻 Portfolio: [https://AvijitSharma123.github.io](https://AvijitSharma123.github.io)
@@ -36,3 +34,9 @@ You can click the Preview link to take a look at your changes.
  <a href="https://expressjs.com/"><img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="Express.js"  width="40" height="40"/></a> 
  <a href="https://tailwindcss.com/"><img src="https://logowik.com/content/uploads/images/t_tailwind-css7675.logowik.com.webp" alt="Tailwind CSS"  width="40" height="40"/></a> 
  <a href="https://v2.chakra-ui.com/"><img src="https://external-preview.redd.it/ab7Pi57dr7S72l_TKrYCT0SODm-d-VQn-XfBQOdz2dE.jpg?auto=webp&s=bb60583067d54a522798a2f423979d488c77d883" alt="ChakraUI"  width="40" height="40"/></a> </p>
+
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AvijitSharma123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    <img src="https://streak-stats.demolab.com?user=AvijitSharma123&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AvijitSharma123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
