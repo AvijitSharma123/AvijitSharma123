@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avijit Sharma</h1>
-<h3 align="center">Full Stack Developer | React.js • Next.js • Node.js • MongoDB</h3>
+<h3 align="center">Full Stack Developer | React.js • Next.js • Node.js • MongoDB  • MySql</h3>
 
 <p align="center">
 Building scalable web applications and modern user experiences.
