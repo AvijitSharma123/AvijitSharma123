@@ -21,7 +21,7 @@ Building scalable web applications and modern user experiences.
 ### 📫 Contact
 
 * 📧 Email: [avijitsharma.6290@gmail.com](mailto:avijitsharma.6290@gmail.com)
-* 🌐 Portfolio: https://avijitsharma123.github.io/
+* 🌐 Portfolio: https://avijit-portfolio-2026.vercel.app/
 * 📄 Resume: https://drive.google.com/file/d/1m2HmyiJ-OV3JoPXf6lfAyaKWvfo5fi1z/view
 
 ---
